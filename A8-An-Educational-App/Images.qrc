@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/sprites">
+        <file>blackSquare.png</file>
+        <file>debugTowerBase.png</file>
+        <file>debugPath.png</file>
+        <file>debugBullet.png</file>
+        <file>debugTowerFreeze.png</file>
+        <file>debugTowerReflect.png</file>
+        <file>GameImages/Attacker_Adware.png</file>
+        <file>GameImages/Attacker_Base.png</file>
+        <file>GameImages/Attacker_Keylogger.png</file>
+        <file>GameImages/Attacker_Meltdown.png</file>
+        <file>GameImages/PathBackground.png</file>
+        <file>GameImages/Tower_Bounce.png</file>
+        <file>GameImages/Tower_Freeze.png</file>
+        <file>GameImages/Tower_Pierce.png</file>
+        <file>GameImages/Tower_Bounce_Disabled.png</file>
+        <file>GameImages/Tower_Freeze_Disabled.png</file>
+        <file>GameImages/Tower_Pierce_Disabled.png</file>
+        <file>GameImages/Adware_a.png</file>
+        <file>GameImages/Adware_b.png</file>
+        <file>GameImages/Adware_c.png</file>
+        <file>GameImages/Adware_d.png</file>
+        <file>GameImages/Adware_e.png</file>
+        <file>GameImages/Adware_f.png</file>
+        <file>GameImages/Adware_g.png</file>
+        <file>GameImages/Bullet.png</file>
+    </qresource>
+</RCC>

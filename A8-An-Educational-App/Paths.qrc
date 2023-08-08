@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/File">
+        <file>GameResources/PathLong.txt</file>
+        <file>GameResources/PathShort.txt</file>
+        <file>GameResources/upgradeIcons/func.png</file>
+        <file>GameResources/upgradeIcons/function.png</file>
+        <file>GameResources/upgradeIcons/length.png</file>
+        <file>GameResources/upgradeIcons/numbers.png</file>
+        <file>GameResources/upgradeIcons/pepper.png</file>
+        <file>GameResources/upgradeIcons/random.png</file>
+        <file>GameResources/upgradeIcons/salt.png</file>
+        <file>GameResources/upgradeIcons/symbols.png</file>
+        <file>GameResources/NewPath.txt</file>
+    </qresource>
+</RCC>
